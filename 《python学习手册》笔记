@@ -1,0 +1,5 @@
+#模块文件的变量名可以通过两个python语句读取:
+import
+form
+可以被以下命令调用：
+reload
